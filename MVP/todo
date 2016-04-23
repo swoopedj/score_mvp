@@ -1,0 +1,20 @@
+todo:
+
+[x] - structure ajax call
+
+[X] - get ajax call to return and render on title submit (static platform)
+
+[] - clear input field after submit
+
+[x] - clear div on new ajax call
+
+[] - get platform to work with ajax call
+
+[] - get index.html to display properly
+
+
+[] - switch jquery cdn for local min version, (install with bower?)
+
+[] - use angular?
+
+[] - deploy on heroku
