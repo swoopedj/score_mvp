@@ -1,0 +1,47 @@
+@font-face {
+    font-family: blade_runner;
+    src: url(blade_runner/BLADRMF_.TTF);
+}
+
+body {
+
+    /*background-color: #5A6569;*/
+    background: url(blood_dragon.png);
+    background-size: cover;
+    color: #BD006B;
+
+}
+
+
+.title{
+	font-family: blade_runner;
+    font-size: 5em;
+	color: #BD006B;
+}
+
+.review{
+    background-color: #001520;
+    width: 30%;
+    border-radius: 10px;
+    padding: 20px;
+    border: solid 2px #CB007B;
+    color: #5787AE;
+}
+
+.loadingGif{
+    margin-left: 300px;
+    /*margin-right: auto;*/
+}
+
+
+/*
+font hot pink: E60E62;
+
+light grey background: tealish : 2C3B40, 1A2E36    green: 354F3E;
+
+	/*background-image: url(super_mario_bros__3_theater_drapes_by_peeteer-d6mmetf.png);*/
+    /*background-size: cover;*/
+    /*color: white;*/
+
+
+    /*div background blues: 0A51BB; 0D1A2C; 0D1B2F*/
